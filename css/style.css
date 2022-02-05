@@ -1,3 +1,22 @@
+@font-face {
+    font-family: "Grandmom";
+    src: url("../font/1.ttf");
+}
+
+h1 {
+    font-size: 65px;
+    font-family: 'Grandmom';
+    text-align: center;
+    margin: 0;
+    padding: 50px;
+    padding-top: 80px;
+}
+
+body {
+    font-family: 'Grandmom';
+    font-size: 200%;
+}
+
 a {
     color: black;
     text-decoration: none;
